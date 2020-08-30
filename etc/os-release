@@ -1,0 +1,9 @@
+PRETTY_NAME="Loongbian #OSNAME# 10 (buster)"
+NAME="Loongbian #OSNAME#"
+VERSION_ID="10"
+VERSION="10 (buster)"
+VERSION_CODENAME=buster
+ID=loongbian
+HOME_URL="https://loongbian.whlug.cn/"
+SUPPORT_URL="https://loongbian.whlug.cn/support"
+BUG_REPORT_URL="https://mantis.whlug.cn/"
