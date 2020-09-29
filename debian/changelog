@@ -1,3 +1,9 @@
+base-files (10.3+deb10u5+loongbian2) buster; urgency=medium
+
+  * Update Loongbian project URL.
+
+ -- Boyue Zhang <boyue.zhang@pzhang.net>  Tue, 29 Sep 2020 23:50:23 +0800
+
 base-files (10.3+deb10u5+loongbian1) buster; urgency=medium
 
   * Add Loongbian-specific information.
